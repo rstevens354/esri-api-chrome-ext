@@ -1,0 +1,17 @@
+{
+	"name": "Esri API Search",
+	"description": "Add support to the omnibox to search the Esri API",
+	"omnibox": {
+		"keyword": "eapi"
+	},
+	"icons": {
+		"16": "icon16.png",
+		"48": "icon48.png"
+	},
+	"background": {
+		"scripts": ["background.js"]
+	},
+	"version": "1.0",
+	"minimum_chrome_version": "9",
+	"manifest_version": 2
+}
