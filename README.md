@@ -13,6 +13,8 @@ Once there, make sure the box marked ‘Developer mode’ is checked, then choos
 
 Your extension is running!
 
+![esri api omnibox](https://github.com/rstevens354/esri-api-chrome-ext/raw/master/overview.png)
+
 ## Usage
 
  1. Type `eapi` into the omnibar then hit `tab` or `space` to initialize the extension.
